@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/Simple/static/js/main.09cd4960.js",
+    "static/media/women.png": "/Simple/static/media/women.17d1fdabc51c924eceb6.png",
+    "static/media/formPhoto.png": "/Simple/static/media/formPhoto.ddfd8de23905f2afde4b.png",
+    "index.html": "/Simple/index.html",
+    "main.09cd4960.js.map": "/Simple/static/js/main.09cd4960.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.09cd4960.js"
+  ]
+}
